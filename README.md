@@ -1,6 +1,6 @@
-# EggyUI-SE.github.io
+# PidanEggyTeam.github.io
 
-![Last Commit](https://img.shields.io/github/last-commit/EggyUI-SE/EggyUI-SE.github.io?label=Last%20Commit)
+![Last Commit](https://img.shields.io/github/last-commit/PidanEggyTeam/PidanEggyTeam.github.io?label=Last%20Commit)
 [![License](https://img.shields.io/badge/License-AGPL%20v3-orange)](LICENSE.txt)
 
 ## 仓库简介
