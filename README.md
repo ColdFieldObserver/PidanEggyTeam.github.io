@@ -1,18 +1,14 @@
 # PidanEggyTeam.github.io
 
 ![Last Commit](https://img.shields.io/github/last-commit/PidanEggyTeam/PidanEggyTeam.github.io?label=Last%20Commit)
-[![License](https://img.shields.io/badge/License-AGPL%20v3-orange)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.txt)
 
 ## 仓库简介
 
-这个仓库存放了EggyUI-SE官网的源代码。
+可能是皮蛋镜像站的新网站，但网站还没有建好。先拿个网页占位。
 
-本网站基于 [Hexo](https://hexo.io) 构建，主题为定制主题（样式和布局来自 [EggyHub](https://eggyhub.top)，针对博客网站做了优化，且精简了部分看起来是 AI 生成的交互样式）。
-
-本网站使用字体：[Noto Sans](https://fonts.zeoseven.com/items/69)（中文字体）、[Segoe Pro](https://www.cdnfonts.com/segoe-pro.font)（英文字体）、[Cascadia Code](https://fonts.zeoseven.com/items/447)（内联代码和代码框字体）
-
-本网站由 GitHub Pages 托管，网站代码使用 [AGPL v3](https://choosealicense.com/licenses/agpl-3.0) 许可证开源，且禁止商业用途。除特殊说明外，本网站所有文章采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans) 许可。
+新网站将会使用VitePress构建，敬请期待吧。
 
 ## Stone Badge
 
-![Stone Badge](https://stone.professorlee.work/api/stone/EggyUI-SE/EggyUI-SE.github.io)
+![Stone Badge](https://stone.professorlee.work/api/stone/PidanEggyTeam/PidanEggyTeam.github.io)
